@@ -37,12 +37,8 @@ This document will be updated regularly. We should get in the habit of creating 
     > <p>Wnat do you enjoy most about being an engineer?</p>
     > <p>What do you like about the product/feature that you're working on?</p>
     > <p>What don't you like about it? What are some cool enhancements you'd like to make?</p>
-    > <p>These are concrete conversations that we can have to better understand their point of view and help foster any ideas that require feedback or affirmation. In doing so, we help build their self-assurance, familiarity and psychological safety. Gradually, our "new" engineers will feel more empowered to discuss and share their perspectives with a larger audience, our collective team.</p>
+    > <p>These are concrete conversations that we can have to <strong>better understand their point of view and help foster any ideas that require feedback or affirmation.</strong> In doing so, we help build their self-assurance (Am I competent?), familiarity with their work (Am I on the right track?) and overall psychological safety (Am I valued?). <strong>Gradually, our "new" engineers will feel more empowered to discuss and share their perspectives with a larger audience, our collective team.</strong>. They begin to indoctrinate themselves.</p>
     > <br>
-
-
-
-
 
 ---
 
