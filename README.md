@@ -10,14 +10,38 @@ Employ this document to keep track and plan ahead on weekly objectives. Make tim
 ### Contributing
 This document will be updated regularly. We should get in the habit of creating a new section for the upcoming work week. This will give us a headstart on thinking through our next objectives and optimize our own flow-states.
 
+
 ---
 
 
 ##### 8/8/2022 - 8/14/2022
 ##### Theme: Putting it into Practice
 ##### User Stories:
-- [ ] Discuss Resilient Management (Continued)
-- [ ] Read and Discuss [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/)
+- [x] Discuss Resilient Management (Continued)
+- [x] Read and Discuss [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/)
+
+##### Notes #####
+- Led Backlog Grooming and Scrum Ceremonies.
+- Facilitated roadmap calibration (EM/EL/PM sync).
+- In [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/), Marty Cagan describes how top-down decision-making can create dehabilitating consequences to teams.
+    > "When you’re given output to deliver you are not empowered in any meaningful sense."
+- <strong>In a "feature team", their stakeholders make the decisions on what to work on.</strong> They will say something like "build this feature because it delivers value to the business." Unfortuantely, in this type of relationship, stakeholders will still find a way to blame the team if their hoped-for results are not realized. Each member of the squad is negatively affected:
+    - Product Managers devolve into project managers. They are <strong>stressed by this unfair reality and push for output instead of creating value for the customer.</strong> This manifests as a "show that you are busy" mindset.
+    - Product Designers become graphic designers. They feel <strong>pressured to deliver designs that closely align with leadership's high-level vision.</strong> They don't have the opportunity to think and end up neglecting the app's usability and experience.
+    - Engineers are <strong>regulated to an arm of execution and have little input on the "Why" for decisions.</strong> This creates a contentious relationship with Product. Both parties see each other more as obstacles rather than a contributing partner.
+- In summary, "Product teams" degenerate into "Feature teams" when <strong>they don't have the agency to formulate their own priorities and make collaborative decisions.</strong> They don't feel like they own their product.
+- :memo: **Exercise**: How would you indoctrinate an engineer who has never been on a "Product Team"?
+    > <br>
+    > <p>One of the best actions we can take is to keep them informed, always. Engineers are <strong>motivated when they have a say</strong>, but first we need to provide them the necessary context to formulate their own perspectives. Share why decision were made, why they matter - then be open to address their feedback. Establishing this line of communication sets the foundation for a two-way conversation.</p>
+    > <p><strong>Be a Listener!</strong> Ultimately, we want our teammates to feel like they belong and that their opinions do matter in the execution of our goals. We can start breaking that ice in our 1:1s, which is arguably the most powerful method in our arsenal. We can learn a great deal by simply asking questions to get to know them better.</p>
+    > <p>Wnat do you enjoy most about being an engineer?</p>
+    > <p>What do you like about the product/feature that you're working on?</p>
+    > <p>What don't you like about it? What are some cool enhancements you'd like to make?</p>
+    > <p>These are concrete conversations that we can have to better understand their point of view and help foster any ideas that require feedback or affirmation. In doing so, we help build their self-assurance, familiarity and psychological safety. Gradually, our "new" engineers will feel more empowered to discuss and share their perspectives with a larger audience, our collective team.</p>
+    > <br>
+
+
+
 
 
 ---
@@ -31,7 +55,9 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### Notes #####
 - Led Sprint Planning and Scrum ceremonies.
 - :memo: **Exercise**: What do I optimize for? What do I hope my teammates will lean on me for?
-    - <p style="color:#093145; margin-top:10px">I'm a thoughtful leader, who <strong>values clarity and shared understanding.</strong> You'll see this when I communicate progress and information. I support my team by being <strong>attuned to their perspectives</strong> and I stay aligned with company values by putting the customer first when making decisions. I thrive in a <strong>predictable and goal-oriented environment.</strong> I commit to being <strong>transparent, emotionally adaptive and customer-centric.</strong></p>
+    > <br>
+    > <p style="margin-top:10px">I'm a thoughtful leader  who <strong>values clarity and shared understanding.</strong> You'll see this when I communicate progress and information. I support my team by being <strong>attuned to their perspectives</strong> and I stay aligned with company values by putting the customer first when making decisions. I thrive in a <strong>predictable and goal-oriented environment.</strong> I commit to being <strong>transparent, emotionally adaptive and customer-centric.</strong></p>
+    > <br>
     <br>
 - :bulb: **Tip:** The best feedback is specific, actionable, and delivered in a way that ensures the receiver can actually absorb it.
     - Observation of behavior + Impact of behavior + Request or Question = Specific, Actionable Feedback
@@ -93,3 +119,5 @@ This document will be updated regularly. We should get in the habit of creating 
 - [Chris N - EM Transition Plan](https://docs.google.com/document/d/1T1YtYzIZ5UO7q1ej6J8wQxxu0os9V1Zf_X455P2tRL0/edit#)
 - [Team Leader Venn Diagram](https://medium.com/making-meetup/em-el-pm-venn-diagram-764e79b42baf)
 - [Finish What You Start Article](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
+- [Flow States Article](https://review.firstround.com/)
+- [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/)
