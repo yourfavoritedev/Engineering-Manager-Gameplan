@@ -18,7 +18,8 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### Theme: Putting it into Practice
 ##### User Stories:
 - [x] Discuss Resilient Management (Continued)
-- [x] Read and Discuss [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/)
+- [x] Read and Discuss [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/)
+- [ ] Read and Discuss [The Gorilla Tax thread](https://twitter.com/shreyas/status/1332065861813694465?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
 
 ##### Notes #####
 - Led Backlog Grooming and Scrum Ceremonies.
