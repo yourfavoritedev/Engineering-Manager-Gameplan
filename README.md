@@ -10,17 +10,29 @@ Employ this document to keep track and plan ahead on weekly objectives. Make tim
 ### Contributing
 This document will be updated regularly. We should get in the habit of creating a new section for the upcoming work week. This will give us a headstart on thinking through our next objectives and optimize our own flow-states.
 
+##### 8/15/2022 - 8/21/2022
+##### Theme: Putting it into Practice (Continued)
+##### User Stories:
+- [x] Discuss Resilient Management (Continued)
+- [ ] Read and Discuss [Radical Delegation](https://twitter.com/shreyas/status/1492345230720331779?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
+- [ ] Setup personal Eisenhower Matrix
+- [ ] Get to know my <strong>"first team"</strong> (my peers that have more/similar experience) and offer my support where I can. Build up the Manager Voltron.
+
+
+---
 
 ##### 8/8/2022 - 8/14/2022
 ##### Theme: Putting it into Practice
 ##### User Stories:
 - [x] Discuss Resilient Management (Continued)
 - [x] Read and Discuss [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/)
+- [ ] Read and Discuss [Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [ ] Meet with teammates over 1:1s to discuss role change and vocalize your support for their careers
 
 ##### Notes #####
 - Led Backlog Grooming and Scrum Ceremonies.
 - Facilitated roadmap calibration (EM/EL/PM sync).
+- Communicated and bootstrapped new epic that will be prioritized over Slack migration.
 - In [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/), Marty Cagan describes how top-down decision-making can create dehabilitating consequences to teams.
     > "When you’re given output to deliver you are not empowered in any meaningful sense."
 - <strong>In a "feature team", their stakeholders make the decisions on what to work on.</strong> They will say something like "build this feature because it delivers value to the business." Unfortuantely, in this type of relationship, stakeholders will still find a way to blame the team if their hoped-for results are not realized. Each member of the squad is negatively affected:
@@ -45,7 +57,7 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### User Stories:
 - [x] Discuss Resilient Management
 - [x] Read and Discuss [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/)
-- [x] Organize Calendar by Energies
+- [x] Organize Calendar by Energies to get into Flow.
 
 ##### Notes #####
 - Led Sprint Planning and Scrum ceremonies.
