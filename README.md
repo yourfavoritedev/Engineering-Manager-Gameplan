@@ -13,8 +13,9 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### 8/15/2022 - 8/21/2022
 ##### Theme: Putting it into Practice (Continued)
 ##### User Stories:
-- [x] Discuss Resilient Management (Continued)
+- [ ] Discuss Resilient Management (Continued)
 - [ ] Read and Discuss [Radical Delegation](https://twitter.com/shreyas/status/1492345230720331779?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
+- [ ] Read and Discuss [Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [ ] Setup personal Eisenhower Matrix
 - [ ] Get to know my <strong>"first team"</strong> (my peers that have more/similar experience) and offer my support where I can. Build up the Manager Voltron.
 
@@ -26,13 +27,13 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### User Stories:
 - [x] Discuss Resilient Management (Continued)
 - [x] Read and Discuss [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/)
-- [ ] Read and Discuss [Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
-- [ ] Meet with teammates over 1:1s to discuss role change and vocalize your support for their careers
+- [x] Meet with teammates over 1:1s to acknowledge role change and our new work-relationships. Vocalize my support for their careers. 
+- [x] Corroborate with each teammate on their 1:1 schedule and format. Briefly go over 1:1 template and gather feedback on its effectiveness. Learn more about each teammates core-needs by employing some [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) from Lara Hogan's Resilient Management.
 
 ##### Notes #####
 - Led Backlog Grooming and Scrum Ceremonies.
 - Facilitated roadmap calibration (EM/EL/PM sync).
-- Communicated and bootstrapped new epic that will be prioritized over Slack migration.
+- Translated a new high-priority objective from Product leadership into an epic. Communicated new epic to teammates, provided context on the problem-statement and clarity on why we've prioritized this over WIP. Collaborated with teammates to iron-out an ERD and action-plan that will be executed over phases - Luna engineers formulated their own SWAG based off their understanding of the required scope.
 - In [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/), Marty Cagan describes how top-down decision-making can create dehabilitating consequences to teams.
     > "When you’re given output to deliver you are not empowered in any meaningful sense."
 - <strong>In a "feature team", their stakeholders make the decisions on what to work on.</strong> They will say something like "build this feature because it delivers value to the business." Unfortuantely, in this type of relationship, stakeholders will still find a way to blame the team if their hoped-for results are not realized. Each member of the squad is negatively affected:
@@ -49,6 +50,7 @@ This document will be updated regularly. We should get in the habit of creating 
     > <p>What don't you like about it? What are some cool enhancements you'd like to make?</p>
     > <p>These are concrete conversations that we can have to <strong>better understand their point of view and help foster any ideas that require feedback or affirmation.</strong> In doing so, we help build their self-assurance (Am I competent?), familiarity with their work (Am I on the right track?) and overall psychological safety (Am I valued?). <strong>Gradually, our "new" engineers will feel more empowered to discuss and share their perspectives with a larger audience, our collective team.</strong> They begin to indoctrinate themselves.</p>
     > <br>
+- :tada: **Reflection**: This was my first week having 1:1s with my teammates as their EM. Previously, I had weekly 1:1s with them as a peer. It genuinely feels different, but in a good way! This time was usually spent helping them remove any blockers and gathering feedback on anything they wanted to chat about. This time, the conversations were more fluid and my teammates were engaged in asking questions outside of their WIP. I believe some ambiguity existed in our prior meetings as to their intended purpose. This week, I took care to endorse our new work relationships and corroborate on preferable 1:1 schedules/formats. I also employed the [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/) from Lara Hogan's Resilient Management. My teammates were really open to answering them and I'm fortuante to learn what they care about!
 
 ---
 
@@ -128,3 +130,5 @@ This document will be updated regularly. We should get in the habit of creating 
 - [Finish What You Start Article](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
 - [Flow States Article](https://review.firstround.com/)
 - [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/)
+- [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/)
+- [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
