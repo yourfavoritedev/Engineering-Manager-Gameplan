@@ -11,15 +11,12 @@ Employ this document to keep track and plan ahead on weekly objectives. Make tim
 This document will be updated regularly. We should get in the habit of creating a new section for the upcoming work week. This will give us a headstart on thinking through our next objectives and optimize our own flow-states.
 
 
----
-
-
 ##### 8/8/2022 - 8/14/2022
 ##### Theme: Putting it into Practice
 ##### User Stories:
 - [x] Discuss Resilient Management (Continued)
 - [x] Read and Discuss [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/)
-- [ ] Read and Discuss [The Gorilla Tax thread](https://twitter.com/shreyas/status/1332065861813694465?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
+- [ ] Meet with teammates over 1:1s to discuss role change and vocalize your support for their careers
 
 ##### Notes #####
 - Led Backlog Grooming and Scrum Ceremonies.
@@ -48,6 +45,7 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### User Stories:
 - [x] Discuss Resilient Management
 - [x] Read and Discuss [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/)
+- [x] Organize Calendar by Energies
 
 ##### Notes #####
 - Led Sprint Planning and Scrum ceremonies.
@@ -63,7 +61,7 @@ This document will be updated regularly. We should get in the habit of creating 
         - <strong>Impact</strong>: This adds much more time to the overall process of us communicating.
         - <strong>Question</strong>: Can you help me understand what you’re optimising for? <i>Follow that up with:</i> How can we come to a compromise going forward?
     <br>
-- :memo: **Exercise:** Organize scheduled events and activites by color. This will help identify your context-switching habits and opportuniies to optimize your flow-state.
+- :memo: **Exercise:** Organize scheduled events and activites by energies/color. This will help identify your context-switching habits and opportuniies to optimize your flow-state.
     > <br>
     > <p><span style="color: #039be5; font-weight: 500">Blue: </span>Pod Ceremonies (Planning, Grooming, Standup)</p>
     > <p><span style="color: #f6c026; font-weight: 500">Yellow: </span>Calibrating (PM-EM sync, Team-leads sync, pod brainstorming)</p> 
