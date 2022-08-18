@@ -10,6 +10,19 @@ Employ this document to keep track and plan ahead on weekly objectives. Make tim
 ### Contributing
 This document will be updated regularly. We should get in the habit of creating a new section for the upcoming work week. This will give us a headstart on thinking through our next objectives and optimize our own flow-states.
 
+
+##### 8/22/2022 - 8/28/2022
+##### Theme: Putting it into Practice (Continued)
+##### User Stories:
+- [ ] Discuss Resilient Management (Continued)
+    - Ask for advice about communicating uncomfortable news, reassuring teammates when unexpected events arrive, how to formulate message to attune to all core BICEPS. Building resiliency.
+- [ ] Manager Training - Coaching Skills
+- [ ] Revisit Radical Candor by Kim Scott
+- [ ] Get to know my <strong>"first team"</strong> (my peers that have more/similar experience) and offer my support where I can. Build up the Manager Voltron.
+- [ ] Read and Disucss [The Gorilla Tax thread](https://twitter.com/shreyas/status/1332065861813694465?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
+
+___
+
 ##### 8/15/2022 - 8/21/2022
 ##### Theme: Putting it into Practice (Continued)
 ##### User Stories:
@@ -17,14 +30,14 @@ This document will be updated regularly. We should get in the habit of creating 
 - [ ] Read and Discuss [Radical Delegation](https://twitter.com/shreyas/status/1492345230720331779?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
 - [ ] Read and Discuss [Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [x] Setup personal Eisenhower Matrix
-- [ ] Get to know my <strong>"first team"</strong> (my peers that have more/similar experience) and offer my support where I can. Build up the Manager Voltron.
 
 ##### Notes #####
 - Led Sprint Planning and Scrum Ceremonies.
 - Observed Europa Grooming and shadowed Vinoj.
+- Had informative 1:1s with Luna teammates.
 - Created my own Eisenhower Matrix and prioritized my tasks accordingly for the current sprint. This exercise was enlightening. I naturally am inclined to feeling like everything is Urgent and Important, but this helped me get a better of sense of my unique role and what tasks I should do to best help my team. Learning how to delegate is a skill I will continue to build on.
     > Delegating tasks is one of the most efficient ways to manage your workload and give your team the opportunity to expand their skill set.
-- I will try to maintain this board every sprint on Asana. Tasks like Weekly 1:1s with teammates will always be in the Do section.
+- This board currently lives in Asana, I will try to maintain it every sprint, making adjustments where needed. Tasks like Weekly 1:1s with teammates will always be in the Do section.
 <img style="margin-top:10px; width:100%; max-width:1000px;" src="personal-eisenhower-matrix.png" alt="personal-eisenhower-matrix"/>
 
 ---
@@ -140,3 +153,7 @@ This document will be updated regularly. We should get in the habit of creating 
 - [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/)
 - [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/)
 - [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
+- [The Eisenhower Matrix: How to prioritize your to-do list](https://asana.com/resources/eisenhower-matrix)
+- [Asana Eisenhower Matrix Template](https://asana.com/templates/eisenhower-matrix)
+- [Radical Delegation](https://twitter.com/shreyas/status/1492345230720331779?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
+- [Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
