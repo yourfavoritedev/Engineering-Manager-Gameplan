@@ -27,7 +27,7 @@ ___
 ##### Theme: Putting it into Practice (Continued)
 ##### User Stories:
 - [x] Discuss Resilient Management (Continued)
-- [ ] Read and Discuss [Radical Delegation](https://twitter.com/shreyas/status/1492345230720331779?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
+- [x] Read and Discuss [Radical Delegation](https://twitter.com/shreyas/status/1492345230720331779?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
 - [ ] Read and Discuss [Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [x] Setup personal Eisenhower Matrix
 
@@ -35,10 +35,18 @@ ___
 - Led Sprint Planning and Scrum Ceremonies.
 - Observed Europa Grooming and shadowed Vinoj.
 - Had informative 1:1s with Luna teammates.
-- Created my own Eisenhower Matrix and prioritized my tasks accordingly for the current sprint. This exercise was enlightening. I naturally am inclined to feeling like everything is Urgent and Important, but this helped me get a better of sense of my unique role and what tasks I should do to best help my team. Learning how to delegate is a skill I will continue to build on.
-    > Delegating tasks is one of the most efficient ways to manage your workload and give your team the opportunity to expand their skill set.
+- :memo: **Exercise**: Created my own Eisenhower Matrix and prioritized my tasks accordingly for the current sprint. This exercise was enlightening. I naturally am inclined to feeling like everything is Urgent and Important, but this helped me get a better of sense of my unique role and what tasks I should do to best help my team. Learning how to delegate is a skill I will continue to build on.
+    > "Delegating tasks is one of the most efficient ways to manage your workload and give your team the opportunity to expand their skill set."
 - This board currently lives in Asana, I will try to maintain it every sprint, making adjustments where needed. Tasks like Weekly 1:1s with teammates will always be in the Do section.
 <img style="margin-top:10px; width:100%; max-width:1000px;" src="personal-eisenhower-matrix.png" alt="personal-eisenhower-matrix"/>
+- Shreyas Doshi introduces the <strong>Radical Delegation Framework</strong> to help prioritize work that must be done, how to best empower your team, avoid burnout and make a major impact. It is a variation and supplement to the Eisenhower Matrix, but it <strong>moreso emphasizes coaching and identifying the compatible opportunities to grow your teammates through proper delegation contracts.</strong> The framework involves 4 quadrants that align with the following principles:
+    - Focus deeply yourself - If something has high impact and only you can do it > Do it then share your discoveries.
+    - Setup the essential foundation - If something has low impact and only you can do it > Do it then coach a team member as they do it.
+    - Delegate to most suitable person - If something has high impact and many people can do it > Delegate and monitor actively.
+    - Delegate and forget - If something has low impact and many people can do it > Delegate but clarify that you are always available to help.
+- Shreyas encourages leaders to embrace <strong>Placebo Productivtity</strong> by completing the tedious tasks 2-3 days before diving into our scheduled deep work. This will give us the dopamine of knocking out the lower-hanging fruit and give us the Flow to work on more impactful tasks.
+- :bulb: **Tip**: Managers may too often be concerned with ROI and making small incremental wins to improve productivity. This can manfiest as people or teams whom are always busy but don't necessarily make a major impact. Instead, we should be focused on minimizing our Opportunity Costs to create long-term value. In short, that means to realize the cost of not doing something that has high impact and significant long-term implications. We could instead be focusing on that right now. With an Opportunity Costs mindset we move with actual intent.
+    > "Your goal should not be to get a positive ROI on your time. Your goal should be to minimize Opportunity Costs. ROI thinking favors quick wins Opportunity Cost thinking favors big wins. Opportunity Cost thinking requires you to focus on the highest impact things you could possibly work on and then make those things happen." - Shreyas Doshi
 
 ---
 
