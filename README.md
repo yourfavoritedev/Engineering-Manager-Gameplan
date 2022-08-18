@@ -13,12 +13,19 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### 8/15/2022 - 8/21/2022
 ##### Theme: Putting it into Practice (Continued)
 ##### User Stories:
-- [ ] Discuss Resilient Management (Continued)
+- [x] Discuss Resilient Management (Continued)
 - [ ] Read and Discuss [Radical Delegation](https://twitter.com/shreyas/status/1492345230720331779?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
 - [ ] Read and Discuss [Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
-- [ ] Setup personal Eisenhower Matrix
+- [x] Setup personal Eisenhower Matrix
 - [ ] Get to know my <strong>"first team"</strong> (my peers that have more/similar experience) and offer my support where I can. Build up the Manager Voltron.
 
+##### Notes #####
+- Led Sprint Planning and Scrum Ceremonies.
+- Observed Europa Grooming and shadowed Vinoj.
+- Created my own Eisenhower Matrix and prioritized my tasks accordingly for the current sprint. This exercise was enlightening. I naturally am inclined to feeling like everything is Urgent and Important, but this helped me get a better of sense of my unique role and what tasks I should do to best help my team. Learning how to delegate is a skill I will continue to build on.
+    > Delegating tasks is one of the most efficient ways to manage your workload and give your team the opportunity to expand their skill set.
+- I will try to maintain this board every sprint on Asana. Tasks like Weekly 1:1s with teammates will always be in the Do section.
+<img style="margin-top:10px; width:100%; max-width:1000px;" src="personal-eisenhower-matrix.png" alt="personal-eisenhower-matrix"/>
 
 ---
 
@@ -33,6 +40,7 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### Notes #####
 - Led Backlog Grooming and Scrum Ceremonies.
 - Facilitated roadmap calibration (EM/EL/PM sync).
+- Observed Europa Sprint Planning and shadowed Vinoj.
 - Translated a new high-priority objective from Product leadership into an epic. Communicated new epic to teammates, provided context on the problem-statement and clarity on why we've prioritized this over WIP. Collaborated with teammates to iron-out an ERD and action-plan that will be executed over phases - Luna engineers formulated their own SWAG based off their understanding of the required scope.
 - In [Product vs Feature Teams](https://www.svpg.com/product-vs-feature-teams/), Marty Cagan describes how top-down decision-making can create dehabilitating consequences to teams.
     > "When you’re given output to deliver you are not empowered in any meaningful sense."
