@@ -28,7 +28,7 @@ ___
 ##### User Stories:
 - [x] Discuss Resilient Management (Continued)
 - [x] Read and Discuss [Radical Delegation](https://twitter.com/shreyas/status/1492345230720331779?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
-- [ ] Read and Discuss [Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [x] Read and Discuss [Product-Minded Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [x] Setup personal Eisenhower Matrix
 
 ##### Notes #####
@@ -47,6 +47,13 @@ ___
 - Shreyas encourages leaders to embrace <strong>Placebo Productivtity</strong> by completing the tedious tasks 2-3 days before diving into our scheduled deep work. This will give us the dopamine of knocking out the lower-hanging fruit and give us the Flow to work on more impactful tasks.
 - :bulb: **Tip**: Managers may too often be concerned with ROI and making small incremental wins to improve productivity. This can manfiest as people or teams whom are always busy but don't necessarily make a major impact. Instead, we should be focused on minimizing our Opportunity Costs to create long-term value. In short, that means to realize the cost of not doing something that has high impact and significant long-term implications. We could instead be focusing on that right now. With an Opportunity Costs mindset we move with actual intent.
     > "Your goal should not be to get a positive ROI on your time. Your goal should be to minimize Opportunity Costs. ROI thinking favors quick wins Opportunity Cost thinking favors big wins. Opportunity Cost thinking requires you to focus on the highest impact things you could possibly work on and then make those things happen." - Shreyas Doshi
+- Gergely Orosz describes <strong>product-minded engineers as a critical ingredient to building successful products.</strong> They are interested beyond its implementation. They have the curiosity to explore why decisions are made, how people use the product and possess the customer-empathy to enrich the user journey. Their inquisitiveness helps deepen the overall understanding for the team.      
+    - They ask thought-provoking questions like:
+        - Why build this feature for the product, why not the other one?
+        - Why ship this first milestone, instead of choosing another one, that's a lot simpler to build?
+        - How will things be measured - why don't we choose a more thorough way to measure things?
+    - Product-minded engineers have the unique ability to consider the impact a product decision has on both the engineering ecosystem and the customer experience. <strong>When evaluating new decisions, they consider the amount of time and effort required. They are focused on the "minimum lovable product" concept.</strong> They come up with solid middle-ground decisions that can provide immediate value to the customer while still being mindful of edge-cases and opportuniies for future enhancements.
+    - They take ownership of the end-to-end product feature. It is not enough for them to simply deliver a solution, but they must know "How is my work really doing?". <strong>As engineers develop their skills through consistent application, product-minded engineers enhance their product instincts by being persistent and relentlessly following-up on their contributions as they navigates through the product-lifecycle.</strong>
 
 ---
 
