@@ -14,12 +14,34 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### 8/22/2022 - 8/28/2022
 ##### Theme: Putting it into Practice (Continued)
 ##### User Stories:
-- [ ] Discuss Resilient Management (Continued)
+- [x] Discuss Resilient Management (Continued)
     - Ask for advice about communicating uncomfortable news, reassuring teammates when unexpected events arrive, how to formulate message to attune to all core BICEPS. Building resiliency.
-- [ ] Manager Training - Coaching Skills
+- [x] Manager Training - Coaching Skills
 - [ ] Revisit Radical Candor by Kim Scott
-- [ ] Get to know my <strong>"first team"</strong> (my peers that have more/similar experience) and offer my support where I can. Build up the Manager Voltron.
+- [x] Get to know my <strong>"first team"</strong> (my peers that have more/similar experience) and offer my support where I can. Build up the Manager Voltron.
 - [ ] Read and Disucss [The Gorilla Tax thread](https://twitter.com/shreyas/status/1332065861813694465?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
+
+##### Notes #####
+- Led Backlog Grooming and Scrum Ceremonies.
+- Partipcated in Context Meeting between EMs.
+- This Manager Training provided by Lifelabs was especially enlightening.
+    - In the first hour, we learned about coaching philosophies and techniques.
+        - Most often, we want our direct reports to be affirmed of their thoughts and help them arrive to a solution. 
+        - Great coaches will usually ask around 10 questions in a span of 15 minutes.
+        - The `Playback` technique is a way of reflecting what our teammate said to confirm whether their thoughts align with our initial understanding.
+        - The `Split Tracks` is a way of helping both the coach and teammate determine whether there is more than one problem or conversation.
+        - The `Soon Funnel` is a theoretical series of questions that can be applied to help our teammates reach an outcome that can be a solution or action-item.
+            > Teammate Question -> 
+            > Playbacks + Split-tracks at each level -> 
+            > What does success look like? ->
+            > What are the obstacles? -> 
+            > What are the options? -> 
+            > What are the next steps?
+    - In the second hour, we split into breakout rooms to apply these learnings.
+        - In groups of 3, we had a seeker, coach and observer.
+        - The seeker would come to the coach with a problem or question that they want to discuss.
+        - As the coach, our objective is to ask the right open-ended questions to enrich the context and understanding of the discussion for both parties. Coaches were not allowed to provide advice.
+        - The exercise would be successful if the coach could apply these techniques to navigate the discussion to a happy path. Ultimately, a solution was not required, but at the minimum there should be a conversation that is trending into the direction of one.
 
 ___
 
