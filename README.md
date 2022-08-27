@@ -17,31 +17,50 @@ This document will be updated regularly. We should get in the habit of creating 
 - [x] Discuss Resilient Management (Continued)
     - Ask for advice about communicating uncomfortable news, reassuring teammates when unexpected events arrive, how to formulate message to attune to all core BICEPS. Building resiliency.
 - [x] Manager Training - Coaching Skills
-- [ ] Revisit Radical Candor by Kim Scott
 - [x] Get to know my <strong>"first team"</strong> (my peers that have more/similar experience) and offer my support where I can. Build up the Manager Voltron.
-- [ ] Read and Disucss [The Gorilla Tax thread](https://twitter.com/shreyas/status/1332065861813694465?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
+- [x] Read and Discuss [The Gorilla Tax thread](https://twitter.com/shreyas/status/1332065861813694465?s=21&t=0Dk6Y-PZFqMQvFE00vkytg)
+- [x] Revisit Radical Candor by Kim Scott
 
 ##### Notes #####
 - Led Backlog Grooming and Scrum Ceremonies.
-- Partipcated in Context Meeting between EMs.
+- Partipcated in the Context Meeting between EMs. This was a great opportunity to learn more about my fellow EMs, their pods and what we should collectively advocate for in FloQast engineering.
+    - This week's conversation was predominately focused on Lead Time and how to organize cross-team epics.
 - This Manager Training provided by Lifelabs was especially enlightening.
     - In the first hour, we learned about coaching philosophies and techniques.
         - Most often, we want our direct reports to be affirmed of their thoughts and help them arrive to a solution. 
         - Great coaches will usually ask around 10 questions in a span of 15 minutes.
         - The `Playback` technique is a way of reflecting what our teammate said to confirm whether their thoughts align with our initial understanding.
         - The `Split Tracks` is a way of helping both the coach and teammate determine whether there is more than one problem or conversation.
-        - The `Soon Funnel` is a theoretical series of questions that can be applied to help our teammates reach an outcome that can be a solution or action-item.
-            > Teammate Question -> 
-            > Playbacks + Split-tracks at each level -> 
-            > What does success look like? ->
-            > What are the obstacles? -> 
-            > What are the options? -> 
-            > What are the next steps?
+        - The `Soon Funnel` is a theoretical series of questions that can be applied to help our teammates reach an outcome that can be a solution or action-item. It is encouraged to Playback and Split Tracks aftre each question.
+        <img style="margin-top:10px; width:50%; max-width:500px;" src="soon-funnel.png" alt="soon-funnel"/>
     - In the second hour, we split into breakout rooms to apply these learnings.
         - In groups of 3, we had a seeker, coach and observer.
         - The seeker would come to the coach with a problem or question that they want to discuss.
         - As the coach, our objective is to ask the right open-ended questions to enrich the context and understanding of the discussion for both parties. Coaches were not allowed to provide advice.
         - The exercise would be successful if the coach could apply these techniques to navigate the discussion to a happy path. Ultimately, a solution was not required, but at the minimum there should be a conversation that is trending into the direction of one.
+- Organized meeting to outline Shield Duty responsibilities as part of Luna's Working Agreement.
+    - Ironed-out expectations of the role, including the communication we should have with the team and the willingness to engage with the customer.
+    - Teammates came up with a valid triaging process to handle bugs and issues that are encountered in the sprint.
+- Fruitful discussions in our first EM Cohort Sync. We delved into a few crucial topics which include:
+    - Reflecting on our reading material with emphasis on Resilient Management.
+    - Examples of how to engage with a teammate who may be having trouble aligning with FloQast's culture.
+        - Stick to the facts and make an astute observation. Ask caring questions to understand the problem. In doing so, we can give actionable feedback.
+    - Fighting the urge to give "Tech Lead" answers to questions in team discussions. As Tech Leads, we tend to have the most domain knowledge in our particular area so our team relies heavily on our input. When we vocalize our thoughts, they typically become the dominating opinion. We need to give our teammates the opportunity to formulate their own opinions and communicate them to the fold.
+- In the [The Gorilla Tax thread](https://twitter.com/shreyas/status/1332065861813694465?s=21&t=0Dk6Y-PZFqMQvFE00vkytg), Shreyas Doshi helps us understand intrisinc costs that large companies deal with. These are not necessarily monetary costs, but abstract costs that come from operating as such a organization:
+    - Collaboration Tax - The cost incurred when large feature teams cannot come together to create a seamless solution. The pitfall can originate from lack of time, competing objectives or resource inavailability.
+        - Startups can capitalize on this by meeting the demands for these distinct features before Gorilla companies can.
+    - Denominator Tax - The cost of prioritizing breadth of usage over depth to meet a plethora of OKRs. Think companies like Google & Microsoft.
+        - Startups can feasible take market share by prioritizing features that give customers the most value and filling in the gaps missed by the Gorilla.
+    - Novice User Tax - The cost of having a product that's too difficult to use. This disincentivizes large organizations from making features more suited for Power Users. Cannot explore depth without the opportunity cost of reaching to a broader audience.
+        - Startups can position themselves to provide those feature alternatives for Power Users.
+    - User Restraining Tax - The cost incurred by having a product with heavy usage. Gorillas cannot quickly iterate upon a UI revamp. The backlash from users will ensure that it happens slowly or not at all.
+    - Business Model Tax - The cost of using the same business or pricing model. The more successful the current one is then the less flexible they will be. 
+    - Dogma Tax - The cost of drinking the Koolaid for too long. The original belief system may no longer be valid and companies need to adapt to the new meta.
+        >  "At some point, a Gorilla becomes its own biggest customer. This means that, despite its various advantages, it cannot be as attuned with its real customers' needs as you can be as a Startup."
+    - The graph visualizes the crossover point when a company starts to prioritize the organization and advocacy of proposed work over the production of it.
+    <img style="margin-top:10px; width:100%; max-width:1000px;" src="company-work-prioritization-graph.jpeg" alt="company-work-prioritization-graph"/>
+        - Startups typically are focused on producing work and value (red line).
+        - Gorillas spend more time creating the structure, consensus and processes to generate future work (blue line).
 
 ___
 
