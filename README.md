@@ -10,6 +10,23 @@ Employ this document to keep track and plan ahead on weekly objectives. Make tim
 ### Contributing
 This document will be updated regularly. We should get in the habit of creating a new section for the upcoming work week. This will give us a headstart on thinking through our next objectives and optimize our own flow-states.
 
+##### 8/29/2022 - 9/2/2022
+##### Theme: Building an MVP mindset for the user
+##### User Stories:
+- [ ] Complete Accelerate
+- [ ] Discuss Radical Candor with EM/Mentor
+- [x] Watch Vinoj's [Ticket Writing Workshop](https://floqast.zoom.us/rec/share/4uZ8onx76X8egVDorN1pGilGrC4o-58mxZB2Rk0RfMk9dXCp3QvsAhfeHaNNLVBq.gfBilX7Pi6yhC0qn?startTime=1661374880000)
+- [ ] Read [Scrum at Big Tech](https://blog.pragmaticengineer.com/project-management-at-big-tech)
+- [ ] Read [Writing User Stories With Gherkin](https://medium.com/@nic/writing-user-stories-with-gherkin-dda63461b1d2)
+
+##### Notes #####
+- This week is focused on answering the question <strong>"how can we deliver value to the customer incrementally?"</strong>
+    - I want to encouage my teammates to <strong>approach each ticket as if they have their own MVP phase rather than default to the urge of feature completeness.</strong> I will start advocating for this in our Sprint Planning and future ceremonies. My goal is to have Luna start internalizing this way of thinking.
+    - Reducing the scope of tickets to an "MVP" level will have a beneficial trickle-down effect. It sets clear boundaries on the incremental targets which makes developing and testing straightforward and predictable.
+        - Furthermore this will help accelerate the customer-feedback loop. <strong>The sooner we can get value out to the customer, the quicker we can iterate and improve on their feedback.</strong>
+    - We can apply the Gherkin writing principles to break down user stories. This helps us <strong>realize the scope and customer value of each segment. Most importantly, it gives us a better sense of what should be prioritized.</strong>
+
+___
 
 ##### 8/22/2022 - 8/28/2022
 ##### Theme: Putting it into Practice (Continued)
@@ -80,6 +97,7 @@ ___
     > "Delegating tasks is one of the most efficient ways to manage your workload and give your team the opportunity to expand their skill set."
 - This [board](https://app.asana.com/read-only/Chris's-Eisenhower-Matrix/324109218896635/1d5c839aca429eb22f0b362fc0070845/board) currently lives in Asana, I will try to maintain it every sprint, making adjustments where needed. Tasks like Weekly 1:1s with teammates will always be in the Do section.
 <img style="margin-top:10px; width:100%; max-width:1000px;" src="personal-eisenhower-matrix.png" alt="personal-eisenhower-matrix"/>
+<br>
 - Shreyas Doshi introduces the <strong>Radical Delegation Framework</strong> to help prioritize work that must be done, how to best empower your team, avoid burnout and make a major impact. It is a variation and supplement to the Eisenhower Matrix, but it <strong>moreso emphasizes coaching and identifying the compatible opportunities to grow your teammates through proper delegation contracts.</strong> The framework involves 4 quadrants that align with the following principles:
     - Focus deeply yourself - If something has high impact and only you can do it > Do it then share your discoveries.
     - Setup the essential foundation - If something has low impact and only you can do it > Do it then coach a team member as they do it.
