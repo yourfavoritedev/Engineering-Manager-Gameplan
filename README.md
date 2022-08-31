@@ -93,11 +93,6 @@ ___
 - Led Sprint Planning and Scrum Ceremonies.
 - Observed Europa Grooming and shadowed Vinoj.
 - Had informative 1:1s with Luna teammates.
-- :memo: **Exercise**: Created my own Eisenhower Matrix and prioritized my tasks accordingly for the current sprint. This exercise was enlightening. I naturally am inclined to feeling like everything is Urgent and Important, but this helped me get a better of sense of my unique role and what tasks I should do to best help my team. Learning how to delegate is a skill I will continue to build on.
-    > "Delegating tasks is one of the most efficient ways to manage your workload and give your team the opportunity to expand their skill set."
-- This [board](https://app.asana.com/read-only/Chris's-Eisenhower-Matrix/324109218896635/1d5c839aca429eb22f0b362fc0070845/board) currently lives in Asana, I will try to maintain it every sprint, making adjustments where needed. Tasks like Weekly 1:1s with teammates will always be in the Do section.
-<img style="margin-top:10px; width:100%; max-width:1000px;" src="personal-eisenhower-matrix.png" alt="personal-eisenhower-matrix"/>
-<br>
 - Shreyas Doshi introduces the <strong>Radical Delegation Framework</strong> to help prioritize work that must be done, how to best empower your team, avoid burnout and make a major impact. It is a variation and supplement to the Eisenhower Matrix, but it <strong>moreso emphasizes coaching and identifying the compatible opportunities to grow your teammates through proper delegation contracts.</strong> The framework involves 4 quadrants that align with the following principles:
     - Focus deeply yourself - If something has high impact and only you can do it > Do it then share your discoveries.
     - Setup the essential foundation - If something has low impact and only you can do it > Do it then coach a team member as they do it.
@@ -113,6 +108,11 @@ ___
         - How will things be measured - why don't we choose a more thorough way to measure things?
     - Product-minded engineers have the unique ability to consider the impact a product decision has on both the engineering ecosystem and the customer experience. <strong>When evaluating new decisions, they consider the amount of time and effort required. They are focused on the "minimum lovable product" concept.</strong> They come up with solid middle-ground decisions that can provide immediate value to the customer while still being mindful of edge-cases and opportuniies for future enhancements.
     - They take ownership of the end-to-end product feature. It is not enough for them to simply deliver a solution, but they must know "How is my work really doing?". <strong>As engineers develop their skills through consistent application, product-minded engineers enhance their product instincts by being persistent and relentlessly following-up on their contributions as they navigates through the product-lifecycle.</strong>
+- :memo: **Exercise**: Created my own Eisenhower Matrix and prioritized my tasks accordingly for the current sprint. This exercise was enlightening. I naturally am inclined to feeling like everything is Urgent and Important, but this helped me get a better of sense of my unique role and what tasks I should do to best help my team. Learning how to delegate is a skill I will continue to build on.
+    > "Delegating tasks is one of the most efficient ways to manage your workload and give your team the opportunity to expand their skill set."
+- This [board](https://app.asana.com/read-only/Chris's-Eisenhower-Matrix/324109218896635/1d5c839aca429eb22f0b362fc0070845/board) currently lives in Asana, I will try to maintain it every sprint, making adjustments where needed. Tasks like Weekly 1:1s with teammates will always be in the Do section.
+<img style="margin-top:10px; width:100%; max-width:1000px;" src="personal-eisenhower-matrix.png" alt="personal-eisenhower-matrix"/>
+<br>
 
 ---
 
