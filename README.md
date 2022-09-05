@@ -11,7 +11,7 @@ Employ this document to keep track and plan ahead on weekly objectives. Make tim
 This document will be updated regularly. We should get in the habit of creating a new section for the upcoming work week. This will give us a headstart on thinking through our next objectives and optimize our own flow-states.
 
 ##### 9/5/2022 - 9/11/2022
-##### Theme: Building an MVP mindset
+##### Theme: Building an MVP mindset (Continued)
 - [ ] Discuss Accelerate with EM/Mentor
 - [ ] Discuss Radical Candor with EM/Mentor
 - [ ] Read [Scrum at Big Tech](https://blog.pragmaticengineer.com/project-management-at-big-tech)
