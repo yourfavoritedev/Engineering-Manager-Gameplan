@@ -10,18 +10,27 @@ Employ this document to keep track and plan ahead on weekly objectives. Make tim
 ### Contributing
 This document will be updated regularly. We should get in the habit of creating a new section for the upcoming work week. This will give us a headstart on thinking through our next objectives and optimize our own flow-states.
 
-##### 8/29/2022 - 9/2/2022
-##### Theme: Building an MVP mindset for the user
-##### User Stories:
-- [ ] Complete Accelerate
+##### 9/5/2022 - 9/11/2022
+##### Theme: Building an MVP mindset
+- [ ] Discuss Accelerate with EM/Mentor
 - [ ] Discuss Radical Candor with EM/Mentor
-- [x] Watch Vinoj's [Ticket Writing Workshop](https://floqast.zoom.us/rec/share/4uZ8onx76X8egVDorN1pGilGrC4o-58mxZB2Rk0RfMk9dXCp3QvsAhfeHaNNLVBq.gfBilX7Pi6yhC0qn?startTime=1661374880000)
 - [ ] Read [Scrum at Big Tech](https://blog.pragmaticengineer.com/project-management-at-big-tech)
 - [ ] Read [Writing User Stories With Gherkin](https://medium.com/@nic/writing-user-stories-with-gherkin-dda63461b1d2)
 
 ##### Notes #####
+
+
+___
+
+##### 8/29/2022 - 9/2/2022
+##### Theme: Building an MVP mindset
+##### User Stories:
+- [x] Complete Accelerate
+- [x] Watch Vinoj's [Ticket Writing Workshop](https://floqast.zoom.us/rec/share/4uZ8onx76X8egVDorN1pGilGrC4o-58mxZB2Rk0RfMk9dXCp3QvsAhfeHaNNLVBq.gfBilX7Pi6yhC0qn?startTime=1661374880000)
+
+##### Notes #####
 - This week is focused on answering the question <strong>"how can we deliver value to the customer incrementally?"</strong>
-    - I want to encouage my teammates to <strong>approach each ticket as if they have their own MVP phase rather than default to the urge of feature completeness.</strong> I will start advocating for this in our Sprint Planning and future ceremonies. My goal is to have Luna start internalizing this way of thinking.
+    - I want to encouage my teammates to <strong>approach each ticket as if they have their own MVP phase rather than default to the urge of feature completeness.</strong> Let's consider the minimal viable product of every user story. I will start advocating for this in our Sprint Planning and future ceremonies. My goal is to have Luna start internalizing this way of thinking.
     - Reducing the scope of tickets to an "MVP" level will have a beneficial trickle-down effect. It sets clear boundaries on the incremental targets which makes developing and testing straightforward and predictable.
         - Furthermore this will help accelerate the customer-feedback loop. <strong>The sooner we can get value out to the customer, the quicker we can iterate and improve on their feedback.</strong>
     - We can apply the Gherkin writing principles to break down user stories. This helps us <strong>realize the scope and customer value of each segment. Most importantly, it gives us a better sense of what should be prioritized.</strong>
