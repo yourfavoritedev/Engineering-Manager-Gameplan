@@ -13,7 +13,6 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### 9/5/2022 - 9/11/2022
 ##### Theme: Building an MVP mindset (Continued)
 - [ ] Discuss Accelerate with EM/Mentor
-- [ ] Discuss Radical Candor with EM/Mentor
 - [ ] Read [Scrum at Big Tech](https://blog.pragmaticengineer.com/project-management-at-big-tech)
 - [ ] Read [Writing User Stories With Gherkin](https://medium.com/@nic/writing-user-stories-with-gherkin-dda63461b1d2)
 
@@ -34,7 +33,19 @@ ___
     - Reducing the scope of tickets to an "MVP" level will have a beneficial trickle-down effect. It sets clear boundaries on the incremental targets which makes developing and testing straightforward and predictable.
         - Furthermore this will help accelerate the customer-feedback loop. <strong>The sooner we can get value out to the customer, the quicker we can iterate and improve on their feedback.</strong>
     - We can apply the Gherkin writing principles to break down user stories. This helps us <strong>realize the scope and customer value of each segment. Most importantly, it gives us a better sense of what should be prioritized.</strong>
-
+- Accelerate paints this picture with more depth by helping us understand the core characteristics of high-performing organizations. Software Delivery Performance (SDP) strongly contributes to overall organizational performance. <strong>The authors of Accelerate have identified four critical measurements that are indicative of strong SDP:</strong>
+    - Lead Time - the time it takes for new work to be implemented, tested and delivered in production.
+        - Shorter product delivery lead times enable a faster customer-feedback loop. Teams can course correct more rapidly.
+        - In this study, high-performing teams have a lead-time of less than an hour.
+    - Deployment Frequency - the regular cadence in which teams can deploy their code.
+        - This is an extention to batch-sizes, in which working on smaller executable actions will create consistency with work, accelerates feedback and improves efficiency in SLDC processes.
+        - High-performing teams can deploy their code on demand (multiple times per day).
+    - Mean Time to Restore (MTTR) - the time it takes to handle inevitable failures. How quickly can service be restored?
+        - This helps us determine the stability of the system.
+        - High-performing teams can typically restore service within an hour.
+    - Change Fail Percentage - the percentage of changes to an application that result in a degraded service or require immediate remediation.
+        - In other words, did a deployment create a bug or issue?
+        - High-performing teams have a change failure rate of 0-15%.
 ___
 
 ##### 8/22/2022 - 8/28/2022
