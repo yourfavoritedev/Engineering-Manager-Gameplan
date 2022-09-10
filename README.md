@@ -13,7 +13,7 @@ This document will be updated regularly. We should get in the habit of creating 
 ##### 9/5/2022 - 9/11/2022
 ##### Theme: Building an MVP mindset (Continued)
 - [x] Discuss Accelerate with EM/Mentor
-- [ ] Read [Scrum at Big Tech](https://blog.pragmaticengineer.com/project-management-at-big-tech)
+- [x] Read [Scrum at Big Tech](https://blog.pragmaticengineer.com/project-management-at-big-tech)
 - [x] Read [Writing User Stories With Gherkin](https://medium.com/@nic/writing-user-stories-with-gherkin-dda63461b1d2)
 
 ##### Notes #####
@@ -53,7 +53,6 @@ This document will be updated regularly. We should get in the habit of creating 
     - Moving away from Scrum can be advantageous when you have the following:
         - Competent, autonomous people who need less structure
         - Teams whon have the freedom to operate, are accountable and take ownership.
-
 ___
 
 ##### 8/29/2022 - 9/2/2022
