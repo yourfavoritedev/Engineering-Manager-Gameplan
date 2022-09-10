@@ -10,7 +10,7 @@ Employ this document to keep track and plan ahead on weekly objectives. Make tim
 ### Contributing
 This document will be updated regularly. We should get in the habit of creating a new section for the upcoming work week. This will give us a headstart on thinking through our next objectives and optimize our own flow-states.
 
-##### 9/5/2022 - 9/11/2022
+##### Week 7: 9/5/2022 - 9/11/2022
 ##### Theme: Building an MVP mindset (Continued)
 - [x] Discuss Accelerate with EM/Mentor
 - [x] Read [Scrum at Big Tech](https://blog.pragmaticengineer.com/project-management-at-big-tech)
@@ -55,7 +55,7 @@ This document will be updated regularly. We should get in the habit of creating 
         - Teams whon have the freedom to operate, are accountable and take ownership.
 ___
 
-##### 8/29/2022 - 9/2/2022
+##### Week 6: 8/29/2022 - 9/2/2022
 ##### Theme: Building an MVP mindset
 ##### User Stories:
 - [x] Complete Accelerate
@@ -82,7 +82,7 @@ ___
         - High-performing teams have a change failure rate of 0-15%.
 ___
 
-##### 8/22/2022 - 8/28/2022
+##### Week 5: 8/22/2022 - 8/28/2022
 ##### Theme: Putting it into Practice (Continued)
 ##### User Stories:
 - [x] Discuss Resilient Management (Continued)
@@ -135,7 +135,7 @@ ___
 
 ___
 
-##### 8/15/2022 - 8/21/2022
+##### Week 4: 8/15/2022 - 8/21/2022
 ##### Theme: Putting it into Practice (Continued)
 ##### User Stories:
 - [x] Discuss Resilient Management (Continued)
@@ -170,7 +170,7 @@ ___
 
 ---
 
-##### 8/8/2022 - 8/14/2022
+##### Week 3: 8/8/2022 - 8/14/2022
 ##### Theme: Putting it into Practice
 ##### User Stories:
 - [x] Discuss Resilient Management (Continued)
@@ -203,7 +203,7 @@ ___
 
 ---
 
-##### 8/1/2022 - 8/7/2022
+##### Week 2: 8/1/2022 - 8/7/2022
 ##### Theme: Getting Started (Continued)
 ##### User Stories:
 - [x] Discuss Resilient Management
@@ -253,7 +253,7 @@ ___
 
 ---
 
-##### 7/25/2022 - 7/31/2022 
+##### Week 1: 7/25/2022 - 7/31/2022 
 ##### Theme: Getting Started 
 ##### User Stories:
 - [x] Complete Resilient Management
